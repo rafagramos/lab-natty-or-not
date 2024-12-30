@@ -20,7 +20,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# "Pilares do Pensamento: Uma Introdução à Filosofia para Todos"
 
 ## 📒 Descrição
 Criação de livro digital com o título "Pilares do Pensamento: Uma Introdução à Filosofia para Todos": Este livro apresenta uma introdução clara e abrangente ao campo da filosofia, passando pelas principais correntes e filósofos, enquanto também apresenta questões contemporâneas que tornam a filosofia relevante para o mundo atual. O estilo acessível de linguagem e a escolha de temas universais tornam o livro adequado para iniciantes, mas também interessante para leitores que desejam aprofundar sua compreensão do pensamento filosófico.
